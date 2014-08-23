@@ -1,0 +1,11 @@
+{
+  "name": "HBFC",
+  "version": "0.0.0",
+  "description": "Haring Bastos Football Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emerson Barrion",
+  "license": "ISC"
+}
